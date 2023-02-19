@@ -1,15 +1,15 @@
 {
   "githubRepo": "public-notes",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "pontes-guilherme",
   "gardenBaseUrl": "https://public-notes-pontes-guilherme.vercel.app/",
   "prHistory": [],
   "baseTheme": "dark",
-  "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "theme": "{\"name\":\"Atom\",\"author\":\"kognise\",\"repo\":\"kognise/obsidian-atom\",\"screenshot\":\"screenshot-hybrid.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kognise/obsidian-atom/HEAD/theme.css\"}",
   "faviconPath": "",
   "showRibbonIcon": true,
   "noteSettingsIsInitialized": true,
-  "siteName": "Digital Garden",
+  "siteName": "Public Notes",
   "slugifyEnabled": true,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
@@ -19,13 +19,13 @@
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false,
-    "dgShowBacklinks": false,
-    "dgShowLocalGraph": false,
-    "dgShowInlineTitle": false,
-    "dgShowFileTree": false,
-    "dgEnableSearch": false,
-    "dgShowToc": false,
-    "dgLinkPreview": false,
-    "dgShowTags": false
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": true,
+    "dgShowTags": true
   }
 }

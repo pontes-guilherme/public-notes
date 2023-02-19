@@ -11,15 +11,24 @@
             "id": "437b3d92c55c9b5b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1649763fbf9de086",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "src/site/notes/Home.md",
+                "file": "pages/Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/site/notes/Home.md",
+                "file": "pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/site/notes/Home.md",
+                "file": "pages/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/site/notes/Home.md"
+                "file": "pages/Home.md"
               }
             }
           }
@@ -147,11 +156,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "437b3d92c55c9b5b",
+  "active": "1f6120f7b7bfe3f9",
   "lastOpenFiles": [
-    "src/site/img/tree-1.svg",
-    "src/site/img/tree-3.svg",
-    "src/site/img/tree-2.svg",
-    "src/site/notes/Home.md"
+    "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/3. Tipos de métricas e medições (APF).md",
+    "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/2. Identificação de Métricas e Plano de Medição.md",
+    "pages/Linux/Setup Pessoal/5. Guia de backup para desenvolvedores.md",
+    "pages/Linux/Setup Pessoal/4. Setup para Desenvolvimento.md",
+    "pages/Linux/Setup Pessoal/1. Pós-instalação em Dual Boot (Windows).md",
+    "pages/Linux/Setup Pessoal/3. Customização, Fontes e Temas.md",
+    "pages/Linux/Setup Pessoal/2. ZSH e Emulador de terminal.md",
+    "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/1. Introdução.md",
+    "pages/Home.md",
+    "src/site/notes/Test.md"
   ]
 }
