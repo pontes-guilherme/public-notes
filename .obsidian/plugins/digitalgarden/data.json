@@ -1,0 +1,31 @@
+{
+  "githubRepo": "public-notes",
+  "githubToken": "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",
+  "githubUserName": "pontes-guilherme",
+  "gardenBaseUrl": "https://public-notes-pontes-guilherme.vercel.app/",
+  "prHistory": [],
+  "baseTheme": "dark",
+  "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Digital Garden",
+  "slugifyEnabled": true,
+  "noteIconKey": "dg-note-icon",
+  "defaultNoteIcon": "",
+  "showNoteIconOnTitle": false,
+  "showNoteIconInFileTree": false,
+  "showNoteIconOnInternalLink": false,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": false,
+    "dgShowFileTree": false,
+    "dgEnableSearch": false,
+    "dgShowToc": false,
+    "dgLinkPreview": false,
+    "dgShowTags": false
+  }
+}
