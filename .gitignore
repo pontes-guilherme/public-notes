@@ -9,3 +9,4 @@ src/site/styles/_theme.*.css
 .idea/
 .vercel
 **/.DS_Store
+.obsidian/plugins/digitalgarden/data.json
