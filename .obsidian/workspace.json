@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41d724125048e0bb",
+        "id": "17d6d477950d30ee",
         "type": "tabs",
         "children": [
           {
-            "id": "437b3d92c55c9b5b",
+            "id": "c74d5758b24a1aec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1649763fbf9de086",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,17 +147,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "1f6120f7b7bfe3f9",
+  "active": "c74d5758b24a1aec",
   "lastOpenFiles": [
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/3. Tipos de métricas e medições (APF).md",
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/2. Identificação de Métricas e Plano de Medição.md",
-    "pages/Linux/Setup Pessoal/5. Guia de backup para desenvolvedores.md",
-    "pages/Linux/Setup Pessoal/4. Setup para Desenvolvimento.md",
-    "pages/Linux/Setup Pessoal/1. Pós-instalação em Dual Boot (Windows).md",
-    "pages/Linux/Setup Pessoal/3. Customização, Fontes e Temas.md",
-    "pages/Linux/Setup Pessoal/2. ZSH e Emulador de terminal.md",
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/1. Introdução.md",
-    "pages/Home.md",
-    "src/site/notes/Test.md"
+    "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
+    "img/user/pages/Engenharia de Software/Resources/AFP flow diagram.png.md",
+    "src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/2. Identificação de Métricas e Plano de Medição.md",
+    "src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/3. Tipos de métricas e medições (APF).md",
+    "pages/Linux/Setup Pessoal/4. Setup para Desenvolvimento.md",
+    "pages/Linux/Setup Pessoal/3. Customização, Fontes e Temas.md",
+    "pages/Linux/Setup Pessoal/2. ZSH e Emulador de terminal.md"
   ]
 }
