@@ -11,9 +11,11 @@
             "id": "c74d5758b24a1aec",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pages/Engenharia de Software/Resources/Use Case Points - use case weights example.png"
+                "file": "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Engenharia de Software/Resources/Use Case Points - use case weights example.png",
+                "file": "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Engenharia de Software/Resources/Use Case Points - use case weights example.png",
+                "file": "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Engenharia de Software/Resources/Use Case Points - use case weights example.png"
+                "file": "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.2.md"
               }
             }
           }
@@ -136,26 +138,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "c74d5758b24a1aec",
   "lastOpenFiles": [
-    "README.md",
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.1.md",
+    "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.2.md",
+    "pages/Engenharia de Software/Resources/COSMIC - phase 3.png",
+    "pages/Engenharia de Software/Resources/COSMIC - phase 2.png",
+    "pages/Engenharia de Software/Resources/COSMIC - phase 1.png",
+    "pages/Engenharia de Software/Resources/COSMIC - Phases.png",
+    "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
+    "src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
+    "src/site/img/user/pages/Engenharia%20de%20Software/Resources/AFP%20contribution.png",
+    "src/site/img/user/pages/Engenharia%20de%20Software/Resources/AFP%20Complexity.png",
+    "pages/Engenharia de Software/Resources/Use Case Points - use case weights example.png",
+    "pages/Engenharia de Software/Resources/Use Case Points - technical complexity weights.webp",
+    "pages/Engenharia de Software/Resources/Use Case Points - environmental weights.png",
+    "pages/Engenharia de Software/Resources/Use Case Points - actor weights example.webp",
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/3. Tipos de métricas e medições (APF).md",
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/2. Identificação de Métricas e Plano de Medição.md",
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/1. Introdução.md",
-    "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
     "img/user/pages/Engenharia de Software/Resources/AFP flow diagram.png.md",
     "src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/2. Identificação de Métricas e Plano de Medição.md",
     "src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/3. Tipos de métricas e medições (APF).md",
-    "pages/Linux/Setup Pessoal/4. Setup para Desenvolvimento.md"
+    "pages/Linux/Setup Pessoal/4. Setup para Desenvolvimento.md",
+    "pages/Linux/Setup Pessoal/3. Customização, Fontes e Temas.md",
+    "pages/Linux/Setup Pessoal/2. ZSH e Emulador de terminal.md"
   ]
 }
