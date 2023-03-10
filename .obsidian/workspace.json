@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Engenharia de Software/Engenharia de Dados/2. Data Warehouses e Data Lakes.md",
+                "file": "pages/Engenharia de Software/Engenharia de Dados/3. Ecossistema de Big Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe970dd9dee96d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f92ca1f3fba3413a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md",
+                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md",
+                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md"
+                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md"
               }
             }
           }
@@ -172,11 +172,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f92ca1f3fba3413a",
+  "active": "fe970dd9dee96d17",
   "lastOpenFiles": [
     "pages/Engenharia de Software/Engenharia de Dados/3. Ecossistema de Big Data.md",
-    "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md",
+    "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+    "pages/Engenharia de Software/Estratégias de Design",
     "pages/Engenharia de Software/Engenharia de Dados/2. Data Warehouses e Data Lakes.md",
+    "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md",
+    "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
     "pages/Engenharia de Software/Resources/data-engineering/Hadoop MapReduce diagram.webp",
     "pages/Engenharia de Software/Resources/data-engineering/Hadoop composition diagram.webp",
     "pages/Engenharia de Software/Resources/data-engineering/DW Snowflake concept 2.png",
@@ -206,7 +209,6 @@
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/3. Customização, Fontes e Temas.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/2. ZSH e Emulador de terminal.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/1. Pós-instalação em Dual Boot (Windows).md",
-    "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
     "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/3. Tipos de métricas e medições (APF).md",
     "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/2. Identificação de Métricas e Plano de Medição.md",
     "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/1. Introdução.md",
@@ -217,8 +219,6 @@
     "src/site/notes/src/site/notes/pages/Engenharia de Software",
     "src/site/notes/src/site/notes/pages",
     "src/site/notes/src/site/notes",
-    "src/site/notes/src/site",
-    "src/site/img/user/img/user/pages/Engenharia de Software/Resources/AFP flow diagram.png.md",
-    "README.md"
+    "src/site/img/user/img/user/pages/Engenharia de Software/Resources/AFP flow diagram.png.md"
   ]
 }
