@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbe170fcaf67784c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Engenharia de Software/Engenharia de Dados/3. Ecossistema de Big Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe970dd9dee96d17",
             "type": "leaf",
             "state": {
@@ -32,12 +20,12 @@
             }
           },
           {
-            "id": "046a5774cb726b5e",
+            "id": "059109f2c6d77cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Engenharia de Software/Engenharia de Dados/3. Ecossistema de Big Data.md",
+                "file": "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+                "file": "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+                "file": "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md"
+                "file": "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md"
               }
             }
           }
@@ -172,10 +160,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fe970dd9dee96d17",
+  "active": "059109f2c6d77cfc",
   "lastOpenFiles": [
-    "pages/Engenharia de Software/Engenharia de Dados/3. Ecossistema de Big Data.md",
     "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+    "pages/Engenharia de Software/Engenharia de Dados/3. Ecossistema de Big Data.md",
+    "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
     "pages/Engenharia de Software/Estratégias de Design",
     "pages/Engenharia de Software/Engenharia de Dados/2. Data Warehouses e Data Lakes.md",
     "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md",
@@ -218,7 +207,6 @@
     "src/site/notes/src/site/notes/pages/Home.md",
     "src/site/notes/src/site/notes/pages/Engenharia de Software",
     "src/site/notes/src/site/notes/pages",
-    "src/site/notes/src/site/notes",
-    "src/site/img/user/img/user/pages/Engenharia de Software/Resources/AFP flow diagram.png.md"
+    "src/site/notes/src/site/notes"
   ]
 }
