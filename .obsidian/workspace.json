@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2136959189ee660a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Engenharia de Software/Estratégias de Design/3. Mentalidade e Métodos de Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "816c5a860d984f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
+                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
+                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md"
+                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md"
               }
             }
           }
@@ -160,11 +184,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "059109f2c6d77cfc",
+  "active": "816c5a860d984f1c",
   "lastOpenFiles": [
+    "pages/Engenharia de Software/Estratégias de Design/3. Mentalidade e Métodos de Design.md",
+    "pages/Engenharia de Software/Estratégias de Design/4. Processos e Ferramentas de Design.md",
+    "pages/Engenharia de Software/Resources/design-strategies/Empathy map.png",
+    "pages/Engenharia de Software/Resources/design-strategies/Embrace - reframe example.jpg",
+    "pages/Engenharia de Software/Resources/design-strategies",
+    "pages/Engenharia de Software/Resources/design-strategies/Design Thinking - Divergence & Convergence.png",
+    "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
     "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
     "pages/Engenharia de Software/Engenharia de Dados/3. Ecossistema de Big Data.md",
-    "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
     "pages/Engenharia de Software/Estratégias de Design",
     "pages/Engenharia de Software/Engenharia de Dados/2. Data Warehouses e Data Lakes.md",
     "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md",
@@ -177,7 +207,6 @@
     "pages/Engenharia de Software/Resources/data-engineering/DW Star schema example.jpg",
     "pages/Engenharia de Software/Resources/data-engineering/Data Wharehouses general architecture.png",
     "pages/Engenharia de Software/Resources/data-engineering",
-    "pages/Engenharia de Software/Resources/metrics-quality/AFP Complexity.png",
     "pages/Engenharia de Software/Engenharia de Dados/1. NoSQL.md",
     "pages/Engenharia de Software/Untitled.md",
     "pages/Engenharia de Software/Engenharia de Dados",
@@ -189,8 +218,6 @@
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/2. Identificação de Métricas e Plano de Medição.md",
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/1. Introdução.md",
     "pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.2.md",
-    "src/site/img/user/pages/Engenharia%20de%20Software/Resources/COSMIC%20-%20phase%201.png",
-    "src/site/img/user/pages/Engenharia%20de%20Software/Resources/COSMIC%20-%20phase%202.png",
     "src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.1.md",
     "src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas - pt.2.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/5. Guia de backup para desenvolvedores.md",
@@ -199,14 +226,10 @@
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/2. ZSH e Emulador de terminal.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/1. Pós-instalação em Dual Boot (Windows).md",
     "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/3. Tipos de métricas e medições (APF).md",
-    "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/2. Identificação de Métricas e Plano de Medição.md",
-    "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/1. Introdução.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal",
     "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade",
     "src/site/notes/src/site/notes/pages/Linux",
-    "src/site/notes/src/site/notes/pages/Home.md",
     "src/site/notes/src/site/notes/pages/Engenharia de Software",
-    "src/site/notes/src/site/notes/pages",
-    "src/site/notes/src/site/notes"
+    "src/site/notes/src/site/notes/pages"
   ]
 }
