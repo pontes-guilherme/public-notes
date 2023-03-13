@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1d51ebb6deab5e",
+        "id": "c1dfa0436a1d74fc",
         "type": "tabs",
         "children": [
           {
-            "id": "fe970dd9dee96d17",
+            "id": "00da6067bf9f30ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "059109f2c6d77cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2136959189ee660a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/3. Mentalidade e Métodos de Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "816c5a860d984f1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md"
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md"
               }
             }
           }
@@ -184,16 +147,18 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "816c5a860d984f1c",
+  "active": "00da6067bf9f30ee",
   "lastOpenFiles": [
+    "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
+    "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
+    "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
     "pages/Engenharia de Software/Estratégias de Design/3. Mentalidade e Métodos de Design.md",
+    "pages/Engenharia de Software/Arquitetura de Aplicações Móveis",
     "pages/Engenharia de Software/Estratégias de Design/4. Processos e Ferramentas de Design.md",
     "pages/Engenharia de Software/Resources/design-strategies/Empathy map.png",
     "pages/Engenharia de Software/Resources/design-strategies/Embrace - reframe example.jpg",
     "pages/Engenharia de Software/Resources/design-strategies",
     "pages/Engenharia de Software/Resources/design-strategies/Design Thinking - Divergence & Convergence.png",
-    "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
-    "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
     "pages/Engenharia de Software/Engenharia de Dados/3. Ecossistema de Big Data.md",
     "pages/Engenharia de Software/Estratégias de Design",
     "pages/Engenharia de Software/Engenharia de Dados/2. Data Warehouses e Data Lakes.md",
@@ -229,7 +194,6 @@
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal",
     "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade",
     "src/site/notes/src/site/notes/pages/Linux",
-    "src/site/notes/src/site/notes/pages/Engenharia de Software",
-    "src/site/notes/src/site/notes/pages"
+    "src/site/notes/src/site/notes/pages/Engenharia de Software"
   ]
 }
