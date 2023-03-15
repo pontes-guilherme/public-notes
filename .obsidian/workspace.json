@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9713c08beebd12ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md"
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "00da6067bf9f30ee",
+  "active": "9713c08beebd12ec",
   "lastOpenFiles": [
     "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
+    "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md",
     "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
     "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
     "pages/Engenharia de Software/Estratégias de Design/3. Mentalidade e Métodos de Design.md",
@@ -190,7 +204,6 @@
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/3. Customização, Fontes e Temas.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/2. ZSH e Emulador de terminal.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/1. Pós-instalação em Dual Boot (Windows).md",
-    "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/3. Tipos de métricas e medições (APF).md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal",
     "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade",
     "src/site/notes/src/site/notes/pages/Linux",
