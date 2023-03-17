@@ -1,4 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en"
+  ]
 }

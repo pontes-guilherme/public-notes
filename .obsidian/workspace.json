@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/3. Tópicos especiais - Padrões de Projeto.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9713c08beebd12ec",
+            "id": "9e0136998838ac9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/3. Tópicos especiais - Padrões de Projeto.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/3. Tópicos especiais - Padrões de Projeto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md",
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/3. Tópicos especiais - Padrões de Projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md"
+                "file": "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/3. Tópicos especiais - Padrões de Projeto.md"
               }
             }
           }
@@ -160,10 +160,20 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "9713c08beebd12ec",
+  "active": "9e0136998838ac9b",
   "lastOpenFiles": [
-    "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
+    "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/3. Tópicos Especiais - UX & UI.md",
+    "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/3. Tópicos especiais - Padrões de Projeto.md",
+    "pages/Engenharia de Software/Resources/mobile/Clean Architecture diagram.jpg",
+    "pages/Engenharia de Software/Resources/mobile/Design Patterns Comparison.png",
+    "1_wRnW_Qb2Q0rPTjbqQ96dhQ.avif",
+    "pages/Engenharia de Software/Resources/mobile/MVVM diagram.png",
+    "pages/Engenharia de Software/Resources/mobile/MVC diagram.png",
+    "pages/Engenharia de Software/Resources/mobile/MVP diagram.jpg",
+    "pages/Engenharia de Software/Resources/mobile/MVC diagram.png",
+    "pages/Engenharia de Software/Resources/mobile",
     "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/2. Sistemas Operacionais e Arquitetura.md",
+    "pages/Engenharia de Software/Arquitetura de Aplicações Móveis/1. Fundamentos.md",
     "pages/Engenharia de Software/Estratégias de Design/1. Introdução.md",
     "pages/Engenharia de Software/Estratégias de Design/2. Design e Transformação Digital.md",
     "pages/Engenharia de Software/Estratégias de Design/3. Mentalidade e Métodos de Design.md",
@@ -179,12 +189,6 @@
     "pages/Engenharia de Software/Engenharia de Dados/4. Integração de Dados.md",
     "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade/4. Estimativas.md",
     "pages/Engenharia de Software/Resources/data-engineering/Hadoop MapReduce diagram.webp",
-    "pages/Engenharia de Software/Resources/data-engineering/Hadoop composition diagram.webp",
-    "pages/Engenharia de Software/Resources/data-engineering/DW Snowflake concept 2.png",
-    "pages/Engenharia de Software/Resources/data-engineering/DW Snowflake schema concept 1.png",
-    "pages/Engenharia de Software/Resources/data-engineering/DW Star schema concept.png",
-    "pages/Engenharia de Software/Resources/data-engineering/DW Star schema example.jpg",
-    "pages/Engenharia de Software/Resources/data-engineering/Data Wharehouses general architecture.png",
     "pages/Engenharia de Software/Resources/data-engineering",
     "pages/Engenharia de Software/Engenharia de Dados/1. NoSQL.md",
     "pages/Engenharia de Software/Untitled.md",
@@ -202,11 +206,7 @@
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/5. Guia de backup para desenvolvedores.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/4. Setup para Desenvolvimento.md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/3. Customização, Fontes e Temas.md",
-    "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/2. ZSH e Emulador de terminal.md",
-    "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal/1. Pós-instalação em Dual Boot (Windows).md",
     "src/site/notes/src/site/notes/pages/Linux/Setup Pessoal",
-    "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade",
-    "src/site/notes/src/site/notes/pages/Linux",
-    "src/site/notes/src/site/notes/pages/Engenharia de Software"
+    "src/site/notes/src/site/notes/pages/Engenharia de Software/Métricas, Estimativas e Qualidade"
   ]
 }
